@@ -2,11 +2,11 @@
 
 ## Computational Diagram
 
-<figure>
-<center>
-<img src='Gradient Boosting.drawio.png'width='400px'/>
+
+<img src='Gradient Boosting.drawio.png' width='400px'/>
+
 <figcaption>Computational Diagram for Gradient Boosting</figcaption></center>
-</figure>
+
 
 ## Math Equations
 

@@ -1,3 +1,11 @@
+<!-- MathJax -->
+
+<script type="text/javascript"
+
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.3/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+
+</script>
+
 # Example4
 
 ## Computational Diagram
@@ -10,4 +18,4 @@
 
 ## Math Equations
 
-\\(\sqrt{\frac{x^2+1}{4+3x^4}}\\)
+$$\sqrt{\frac{x^2+1}{4+3x^4}}$$
